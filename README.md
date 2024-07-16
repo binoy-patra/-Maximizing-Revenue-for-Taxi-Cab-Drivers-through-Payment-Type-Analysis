@@ -7,7 +7,7 @@ In the fast-paced taxi booking sector, optimizing revenue is essential for long-
 Understanding the relationship between payment methods and fare amounts can provide strategic insights for taxi companies. By analyzing this relationship, taxi companies can develop strategies to encourage payment methods that maximize revenue for drivers.
 
 ## Objective
-The primary objective of this project is to run an A/B test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. Specifically, we want to find out if there is a significant difference in fares for those who pay with credit cards versus those who pay with cash.
+The primary objective of this project is to run a hypeothesis test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. Specifically, we want to find out if there is a significant difference in fares for those who pay with credit cards versus those who pay with cash.
 
 ## Research Question
 Is there a relationship between the total fare amount and the payment type, and can we nudge customers towards payment methods that generate higher revenue for drivers without negatively impacting customer experience?
