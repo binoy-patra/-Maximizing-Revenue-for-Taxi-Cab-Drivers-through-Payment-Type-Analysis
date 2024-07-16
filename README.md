@@ -28,6 +28,7 @@ Dataset Credit: [data.world](https://data.world/)
 ### Journey Insights
 ![Images](https://github.com/binoy-patra/Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Payment-Type-Analysis/blob/main/Journey%20insights.png)
 ![image](https://github.com/user-attachments/assets/6baef384-1222-4155-aa1c-f49b8bdc5b06)
+
 **Insights**
 - Credit card payments show a higher average fare of $13.60 with greater variability ($6.37 standarddeviation) compared to cash payments, which average $12.18 with a standard deviation of $6.13.
 - This suggests potential opportunities for revenue optimization through targeted payment method incentives in taxi services.
@@ -35,6 +36,7 @@ Dataset Credit: [data.world](https://data.world/)
 
 ### Preference of Payment Types
 ![Images](https://github.com/binoy-patra/Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Payment-Type-Analysis/blob/main/Payment%20Type%20Ref.png)
+
 **Insights**
 - **Cash**: 32.5%
 - **Card**: 67.5%
@@ -43,6 +45,7 @@ The proportion of customers paying with cards is significantly higher than those
 
 ### Passenger Count Analysis
 ![Images](https://github.com/binoy-patra/Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Payment-Type-Analysis/blob/main/Passenger%20Count%20Analysis.png)
+
 **Insights**
 - Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion, constituting 40.08% of all card transactions.
 - Similarly, cash payments are predominantly associated with single-passenger rides, making up 20.04% of all cash transactions.
